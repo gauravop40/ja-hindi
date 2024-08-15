@@ -1,2 +1,1 @@
-# ja-hindi
-java script
+
